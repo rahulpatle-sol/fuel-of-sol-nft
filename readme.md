@@ -57,3 +57,30 @@ A[Image Hosted on IPFS] --> B[Metadata JSON]
 B --> C[Metaplex NFT Mint]
 C --> D[Solana Devnet Account]
 D --> E[Wallets / Traders on Discord]
+
+
+
+```
+
+## ⚙️ Step-by-Step Setup Guide  
+
+Follow these steps to mint your **Fuel of Sol NFT** on Solana Devnet.  
+
+---
+
+### 🧩 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/rahulpatle-sol/fuel-of-sol.git
+cd fuel-of-sol
+
+npm install
+RPC_URL=https://api.devnet.solana.com
+SECRET_KEY_PATH=./keypair.json
+solana-keygen new --outfile keypair.json
+🚀 Minting NFT for project: Fuel of Sol...
+✅ NFT Minted Successfully!
+🖼️ NFT Address: Ff8hFj9xZ9hMZp6j4DgjP6vh6p83Qj5Gz8bPcvUZUxJb
+🔗 View on Solana Explorer: https://explorer.solana.com/address/6SLbMLqnoaSoPzdHJTBQUFu5ewB1PErQjynQa4pTH8tZ?cluster=devnet
+```
+
+
