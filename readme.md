@@ -82,7 +82,10 @@ solana-keygen new --outfile keypair.json
 ✅ NFT Minted Successfully!
 🖼️ NFT Address: Ff8hFj9xZ9hMZp6j4DgjP6vh6p83Qj5Gz8bPcvUZUxJb
 🔗 View on Solana Explorer: https://explorer.solana.com/address/6SLbMLqnoaSoPzdHJTBQUFu5ewB1PErQjynQa4pTH8tZ?cluster=devnet
+
+
 ```
+
 
 
 
