@@ -1,0 +1,31 @@
+{
+  "name": "Fuel of Sol #1",
+  "symbol": "FOS",
+  "description": "The spark that powers the Solana galaxy ⚡ — an energy NFT from the Fuel of Sol collection.",
+  "image": "https://bronze-active-cattle-246.mypinata.cloud/ipfs/bafkreickww5lmv3t2yst7uaomjlcy5wq3gr34x6hwnzuvg5icefieexn54",
+  "external_url": "https://fuelofsol.xyz",
+  "attributes": [
+    { "trait_type": "Energy Level", "value": "100%" },
+    { "trait_type": "Rarity", "value": "Legendary" },
+    { "trait_type": "Core Type", "value": "Solar Fuel" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://bronze-active-cattle-246.mypinata.cloud/ipfs/bafkreickww5lmv3t2yst7uaomjlcy5wq3gr34x6hwnzuvg5icefieexn54",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "collection": {
+      "name": "Fuel of Sol",
+      "family": "Solana Energy"
+    },
+    "creators": [
+      {
+        "address": "GFvydGaDq5KG3C5h4SD4giBMqbynaDWNpktLDdxt8aPv",
+        "share": 100
+      }
+    ]
+  }
+}
